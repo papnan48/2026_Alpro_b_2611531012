@@ -1,0 +1,21 @@
+print("=== BIODATA MAHASISWA ===")
+print("Nama    : Afnan Feyza")
+print("NIM     : 2611531012")
+print("Jurusan : Informatika")
+print("Kelas   : B")
+print("Hobi    : Jalan-jalan, Memasak")
+
+print()
+print()
+
+
+print("      *      ")
+print("     ***     ")
+print("    *****    ")
+print("   *******   ")
+print("  *********  ")
+print(" *********** ")
+print("*************")
+print("     |||     ")
+print("     |||     ")
+print("     |||     ")
