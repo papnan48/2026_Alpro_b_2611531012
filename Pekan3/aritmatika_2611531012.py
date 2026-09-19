@@ -19,7 +19,7 @@ print("Hasil =", hasil_1012)
 
 # Perkalian
 hasil_1012 = angka1_1012 * angka2_1012
-print ("\nOperator Perkalian")
+print("\nOperator Perkalian")
 print("Hasil =", hasil_1012)
 
 # Pembagian, pembagian bulat, dan sisa bagi
