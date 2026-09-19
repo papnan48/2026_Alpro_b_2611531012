@@ -24,15 +24,15 @@ print("Hasil =", hasil_1012)
 
 # Pembagian, pembagian bulat, dan sisa bagi
 if angka2_1012 !=0:
-    hasil = angka1_1012 / angka2_1012
+    hasil_1012 = angka1_1012 / angka2_1012
     print("\nOperator Pembagian")
     print("Hasil =", hasil_1012)
 
-    hasil = angka1_1012 // angka2_1012
+    hasil_1012 = angka1_1012 // angka2_1012
     print("\nOperator Pembagian Bulat")
     print("Hasil =", hasil_1012)
 
-    hasil = angka1_1012 % angka2_1012
+    hasil_1012 = angka1_1012 % angka2_1012
     print("\nOperator Sisa Bagi")
     print("Hasil =", hasil_1012)
 else:
