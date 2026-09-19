@@ -24,6 +24,7 @@ print("Hasil =", hasil_1012)
 
 # Pembagian, pembagian bulat, dan sisa bagi
 if angka2_1012 !=0:
+<<<<<<< HEAD
     hasil_1012 = angka1_1012 / angka2_1012
     print("\nOperator Pembagian")
     print("Hasil =", hasil_1012)
@@ -33,6 +34,17 @@ if angka2_1012 !=0:
     print("Hasil =", hasil_1012)
 
     hasil_1012 = angka1_1012 % angka2_1012
+=======
+    hasil = angka1_1012 / angka2_1012
+    print("\nOperator Pembagian")
+    print("Hasil =", hasil_1012)
+
+    hasil = angka1_1012 // angka2_1012
+    print("\nOperator Pembagian Bulat")
+    print("Hasil =", hasil_1012)
+
+    hasil = angka1_1012 % angka2_1012
+>>>>>>> 21223a7e2c6f80970163afb5fd14f6e5d558ec33
     print("\nOperator Sisa Bagi")
     print("Hasil =", hasil_1012)
 else:
@@ -41,4 +53,8 @@ else:
 # Pangkat
 hasil_1012 = angka1_1012 ** angka2_1012
 print("\nOperator Pangkat")
+<<<<<<< HEAD
 print("Hasil =", hasil_1012)
+=======
+print("Hasil =", hasil_1012)
+>>>>>>> 21223a7e2c6f80970163afb5fd14f6e5d558ec33

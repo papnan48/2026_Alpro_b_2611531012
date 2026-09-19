@@ -34,4 +34,8 @@ print("not A2 =", hasil_1012)
 # XOR: bernilai True jika kedua nilai berbeda
 hasil_1012 = a1_1012 != a2_1012
 print("\nDisjungsi Eksklusif (XOR)")
+<<<<<<< HEAD
 print("A1 XOR A2 =", hasil_1012)
+=======
+print("A1 XOR A2 =", hasil_1012)
+>>>>>>> 21223a7e2c6f80970163afb5fd14f6e5d558ec33

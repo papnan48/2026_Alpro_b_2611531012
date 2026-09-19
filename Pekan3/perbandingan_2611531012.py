@@ -34,7 +34,7 @@ print("angka1 == angka2 =", hasil_1012)
 
 # Tidak sama dengan
 hasil_1012 = angka1_1012 != angka2_1012
-print("\nOperator lebih besar dari atau sama dengan")
+print("\nOperator tidak sama dengan")
 print("angka1 != angka2 =", hasil_1012)
 
 # Tambahan: perbandingan berantai dalam Python
@@ -42,5 +42,5 @@ hasil_1012 = 0 < angka1_1012 <100
 print("\nPerbandingan berantai")
 print("0 < angka1 < 100 =", hasil_1012)
 
-hasil = 0 < angka2_1012 < 100
+hasil_1012 = 0 < angka2_1012 < 100
 print("0 < angka2 < 100 =", hasil_1012)
