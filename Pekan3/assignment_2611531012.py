@@ -56,8 +56,4 @@ else:
 hasil_1012 = angka1_1012
 hasil_1012 **= angka2_1012
 print("\nAssignment perpangkatan (**=)")
-<<<<<<< HEAD
 print("Hasil =", hasil_1012)
-=======
-print("Hasil =", hasil_1012)
->>>>>>> 21223a7e2c6f80970163afb5fd14f6e5d558ec33

@@ -55,8 +55,4 @@ hasil_1012 = angka1_1012 >> jumlah_geser_1012
 print("\nBitwise geser kanan (>>)")
 print(angka1_1012, ">>", jumlah_geser_1012, "=", hasil_1012)
 print("Biner hasil =", bin(hasil_1012))
-<<<<<<< HEAD
 print("Biner hasil (8 bit) =", format(hasil_1012, "08b"))
-=======
-print("Biner hasil (8 bit) =", format(hasil_1012, "08b"))
->>>>>>> 21223a7e2c6f80970163afb5fd14f6e5d558ec33
