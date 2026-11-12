@@ -1,3 +1,6 @@
 # Name: Afnan feyza
 # NIM: 2611531012
-# Question 1
+# Question 4
+phone = "082611531012"
+masked = phone[:4] + "*" * (len(phone)-7) + phone[-3:]
+print(masked)
