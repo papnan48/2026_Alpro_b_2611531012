@@ -1,6 +1,12 @@
 # Name: Afnan feyza
 # NIM: 2611531012
-# Question 6
+# Question 6 - Warmup
+first_name = " muhammad"
+last_name = "rafi "
+full_name = first_name.strip() + " " + last_name.strip()
+print(full_name)
+print(full_name.title())
+# Question 6 - Main
 full_name = "Afnan Feyza"
 nim = "2611531012"
 clean = full_name.strip()
