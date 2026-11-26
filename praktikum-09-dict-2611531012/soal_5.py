@@ -1,7 +1,7 @@
-n = int(input("Masukkan jumlah setoran: "))
+n = int(input("Ketikkan jumlah setoran: "))
 kas = {}
 for i in range(n):
-    nama, nominal = input().split()
+    nama, nominal = input(f"Masukkan setoran: ").split()
     nominal = int(nominal)
 
     if nama not in kas:
